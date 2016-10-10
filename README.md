@@ -10,3 +10,5 @@ The code is organized into the following sections:
 - Mushroom-related functions (mushroom health decrementing, removal)
 - Bullet-related functions (movement, centipede and mushroom collision check)
 - Animation, key handling, and rendering functions
+
+Collaborated with Cristi Dragomir to program game.
